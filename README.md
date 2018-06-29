@@ -3,9 +3,9 @@
 ---
 
 # 效果图
-![](http://lc-8VM2adj2.cn-n1.lcfile.com/f08d48da174f12faeded.png)
-![](http://lc-8VM2adj2.cn-n1.lcfile.com/e9b21741debaf8dd4dfa.png)
-![](http://lc-8VM2adj2.cn-n1.lcfile.com/e2f08405ce52808c6e9b.png)
+![](http://lc-8VM2adj2.cn-n1.lcfile.com/d4b87b85c66ee2c07788.png)
+![](http://lc-8VM2adj2.cn-n1.lcfile.com/d277fcb1c777ff35e50f.png)
+![](http://lc-8VM2adj2.cn-n1.lcfile.com/28411095efa8b1898ed5.png)
 
 
 ####选择一张图片时可以设置裁剪
